@@ -1,2 +1,2 @@
 # Chat-bot
-Develop a simple chatbot that can interact with users, answer questions, and perform basic tasks.
+Making a chatbot that can interact with users, answer questions, and perform basic tasks using python. 
